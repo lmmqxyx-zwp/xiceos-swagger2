@@ -15,3 +15,6 @@ swagger2接入项目、使用API接口的测试
 
 >`04.`创建用户
 ![Image text](readme/04.创建用户.png)
+
+>`05.`swagger2Error解决
+![Image text](readme/05.swagger2Error解决.png)
