@@ -18,3 +18,5 @@ swagger2接入项目、使用API接口的测试
 
 >`05.`swagger2Error解决
 ![Image text](readme/05.swagger2Error解决.png)
+
+# 注意：新版本使用swagger2的版本为[2.9.2], 样式会有一些改变
